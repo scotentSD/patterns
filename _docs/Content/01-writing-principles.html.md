@@ -1,19 +1,26 @@
 ---
-title: Key writing principles
-category: Content
+title: Vertical alignment of images and headers
+category: UX
 order: 1
 ---
 
 ## Key principles ##
+**Keep articles with images aligned vertically.**
+If you have sections on a web page make sure that they are easy to scan by having the Images and Headings aligned vertically
 
-**Always put the user first.**
-When you’re writing content, focus on what the user needs to know – not what we want to tell them. And always refer to the user as ‘you’. 
+## Pattern
+- Articles on a page have the images vertically aligned on one side.
+- You can use either side as long as you stick to it.
+- Align headings in a similar manner.  
 
-**Ask questions**
-Don’t be afraid to question why a piece of content is required and what format suits it best. 
+## Anti Pattern
+- Articles on a page that alternate between Images on Left and Right of page
 
-**Write clearly**
-Always write in plain English.
+## Supporting research
+- This is a common pattern that is seen on many usability test rounds
+- The California Page on the Scottish Enterprise website is an example (Doc Link to be added)
 
-**Consider context**
-When writing a piece of content, consider the context around it. What are users trying to do? What do they know already? What will they see next? 
+## Tags
+- Easy to scan
+- Layout
+- Alignment
