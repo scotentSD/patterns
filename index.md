@@ -1,5 +1,5 @@
 ---
-title: Welcome to the SE Pattern Library
+title: Welcome to the Scottish Enterprise Pattern Library
 ---
 
 This Pattern Library was created to share Scottish Enterprise's research and patterns.
