@@ -5,7 +5,7 @@ order: 2
 ---
 
 ## Key principles ##
-**  xxx  **
+- **xxx**
 - xxx
 
 ## Pattern
