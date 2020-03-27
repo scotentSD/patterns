@@ -15,6 +15,8 @@ order: 1
 - You can use either side as long as you stick to it.
 - Align headings in a similar manner.  
 
+![alignment options][alignment.png]
+
 ## Anti Pattern
 - Articles on a page that alternate between Images on Left and Right of page
 
