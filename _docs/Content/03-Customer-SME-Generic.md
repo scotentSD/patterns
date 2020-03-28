@@ -1,7 +1,7 @@
 ---
 title: Common SME characteristics
 category: Customers
-order: 2
+order: 3
 ---
 
 ## Key principles ##
@@ -20,7 +20,7 @@ order: 2
 
 ## Anti Pattern
 - Once SME's work with us for a while, they start to adopt our language in order to "manage us". This can give an unrealistic view of how suitable our language and naming is.
-- Some SME's do have dedicated resources for obtaining public sector support. This tends to happen in "Key Sectors" where there is a lot of Government support available
+- Some SME's do have dedicated resources for obtaining public sector support. This tends to happen in "Key Sectors" where there is a lot of Government support available which makes it worth while.
 
 ## Supporting research
 - Over 900 research interactions across the last two years with most of them being SME's

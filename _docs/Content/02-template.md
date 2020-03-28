@@ -1,6 +1,6 @@
 ---
 title: Template
-category: UX
+category: Template
 order: 2
 ---
 
