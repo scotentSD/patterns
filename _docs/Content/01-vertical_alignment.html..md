@@ -14,11 +14,13 @@ order: 1
 - Articles on a page have the images vertically aligned on one side.
 - You can use either side as long as you stick to it.
 - Align headings in a similar manner.  
+- Thde GOOD example (below) is easy to scan the headings or images
 
 ![alignment options](alignment.png)
 
 ## Anti Pattern
 - Articles on a page that alternate between Images on Left and Right of page
+- The BAD example (above) is hard to scan and can also cause issues for people with extra Accessibility challenges  
 
 ## Supporting research
 - This is a common pattern that is seen on many usability test rounds
@@ -28,3 +30,7 @@ order: 1
 - Easy to scan
 - Layout
 - Alignment
+
+## Last update
+- Martin Kerr
+- 28th March 2020
