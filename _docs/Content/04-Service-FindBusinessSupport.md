@@ -11,6 +11,7 @@ order: 2
 ## Pattern
 - The website should have listings of all Scottish Business services.
 - It should have enough information to allow customers to make informed decisions about which services are for them.
+- It should be optimised so that you find it first when looking for any Scottish Business Support that is delivered by the Public Sector. 
 
 ## Anti Pattern
 - Websites that actually deliver the services rank higher than the central Find Business Support website
