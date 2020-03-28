@@ -9,9 +9,8 @@ order: 2
 - There are **Assisted Digital** options for those who can't or do not want to use the website
 
 ## Pattern
-- The website should have listings of all Scottish Business services
-- It should have enough information to allow customers to make informed decisions about which services are for them
--
+- The website should have listings of all Scottish Business services.
+- It should have enough information to allow customers to make informed decisions about which services are for them.
 
 ## Anti Pattern
 - Websites that actually deliver the services rank higher than the central Find Business Support website
