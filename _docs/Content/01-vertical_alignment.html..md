@@ -21,6 +21,7 @@ order: 1
 ## Anti Pattern
 - Articles on a page that alternate between Images on Left and Right of page
 - The BAD example (above) is hard to scan and can also cause issues for people with extra Accessibility challenges  
+- If you make the images bigger and line up with each others corner then the effect is quite "cool", BUT it is still harder to scan. 
 
 ## Supporting research
 - This is a common pattern that is seen on many usability test rounds

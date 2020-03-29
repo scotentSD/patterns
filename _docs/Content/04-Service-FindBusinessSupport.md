@@ -6,7 +6,7 @@ order: 2
 
 ## Key principles ##
 - **All Scottish Business Support can be found online at a single site**
-- There are **Assisted Digital** options for those who can't or do not want to use the website
+- There are **Assisted Digital** options for those who can't, or do not want to use the website
 
 ## Pattern
 - The website should have listings of all Scottish Business services.
