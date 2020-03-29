@@ -10,10 +10,14 @@ order: 5
 - Service names should say what they do
 
 ## Pattern
-- xxx
+- Services names should be based around Verbs (What they do rather than what they are named)
+- Service names should not include government jargon
+- If a service changes then the name should change to reflect that
 
 ## Anti Pattern
-- xxx
+- We train people to learn our terminology and names so that they can navigate the public sector landscape
+- People become familiar with our names and start searching for them (you can argue this as a positive or negative depending on the individual customer)
+- The function of a service changes over time but the name remains the same and thus has even less linkage to the actual function.
 
 ## Supporting research
 - This is a common pattern across all our user research
