@@ -11,7 +11,7 @@ order: 2
 ## Pattern
 - The website should have listings of all Scottish Business services.
 - It should have enough information to allow customers to make informed decisions about which services are for them.
-- It should be optimised so that you find it first when looking for any Scottish Business Support that is delivered by the Public Sector. 
+- It should be optimised so that you find it first when looking for any Scottish Business Support that is delivered by the Public Sector.
 
 ## Anti Pattern
 - Websites that actually deliver the services rank higher than the central Find Business Support website
@@ -29,10 +29,14 @@ order: 2
 - I find it hard to find stuff
 - I have to look at lots of different, and confusing, government websites to try and find stuff
 - When I find stuff, it is worded quite confusingly
+- Public Sector uses Jargon and Acronyms to make it hard for normal people to understand what is on offer
+- The Public Sector does not trust SME's
+- Service delivery is far to bureaucratic
 - I find it hard to choose which services are best for my Business
 - I waste a lot of time looking
 - I often waste time applying for the wrong thing
 - I would like an easier way to "Shop" for public sector support
+- Could you just list it all in one place (and make that easy to use)
 
 
 ## Tags
