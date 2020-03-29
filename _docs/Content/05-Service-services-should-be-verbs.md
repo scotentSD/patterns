@@ -6,9 +6,8 @@ order: 5
 
 ## Key principles ##
 - **Service names should be VERBS and not NOUNS**
-- Service names should be easy to underatsnd.
-- Service names should say what they do.
--
+- Service names should be easy to understand
+- Service names should say what they do
 
 ## Pattern
 - xxx
