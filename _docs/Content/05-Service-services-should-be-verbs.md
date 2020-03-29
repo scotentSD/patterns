@@ -27,7 +27,10 @@ order: 5
 
 
 ## Tags
-- NOUNS
-- NOUN
-- VERBS
-- VERB
+- nouns
+- noun
+- verbs
+- verb
+- names
+- naming
+- services
