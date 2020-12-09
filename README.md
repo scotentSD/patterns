@@ -1,3 +1,8 @@
+# **[See the live website](https://scotentsd.github.io/patterns/) for this code.**
+
+
+
+
 # Edition
 
 Product documentation template for Jekyll. Browse through a [live demo](https://long-pig.cloudvent.net/).
