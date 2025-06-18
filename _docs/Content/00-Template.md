@@ -4,11 +4,23 @@ category: Draft
 order: 99
 ---
 
-## HeadingKey principles ##
-- **Strong**
+## Key principles ##
+- **Strong**: xxx
 - xxx
+
+
+## Pattern
+- xxx
+## Anti Pattern
+- xxx
+
+## Supporting research
 - xxx
 
 ## Tags
-- template
-- draft
+- Template
+- Draft
+
+## Last update
+- Martin Kerr
+- 18th June 2025
